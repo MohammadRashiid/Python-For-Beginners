@@ -1,0 +1,5 @@
+This is a new line 
+ second lineThis is a new line 
+second lineThis is appended textThis is appended textThis is appended text 2nd line
+This is using cell magic
+and another line.
